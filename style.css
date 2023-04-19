@@ -1,0 +1,55 @@
+body {
+  background: url(imagens\ shazam/bg.jpg) fixed;
+  color: white;
+  background-size: cover;
+  margin: 0;
+}
+
+p {
+  font-family: tahoma, quicksand;
+  font-size: 18px;
+  margin: 20px;
+}
+.center {
+  text-align: center;
+}
+
+.logo {
+  width: 250px;
+}
+
+a {
+  color: black;
+  background-color: white;
+  text-decoration: none;
+  padding: 12px;
+  border-radius: 24px;
+  font-weight: bold;
+}
+
+a:hover {
+  transition-duration: 0.3s;
+  background: red;
+  color: white;
+}
+
+.banner {
+  width: 100%;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  border-top: 5px solid white;
+  border-bottom: 5px solid white;
+}
+
+.poster {
+  border: 5px solid white;
+  border-radius: 15px;
+}
+
+.margin {
+  margin: 20px;
+}
+
+h2 {
+  font-family: quicksand;
+}
